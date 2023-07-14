@@ -1,0 +1,25 @@
+* {
+   
+}
+.theme {
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    background-color:#000e17;
+    color:white;
+}
+
+.css-3d-text {
+    font-size: 50px;
+    color: #ffc107;
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+ }
+ 
+.rpmento {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    background-color: #f99221;
+}

@@ -1,0 +1,28 @@
+@import 'https://fonts.googleapis.com/css?family=Ubuntu:300, 400, 500, 700';
+
+* {
+    margin: 0%;
+    padding: 0%;
+   
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: tomato;
+}
+header > h1 {
+
+    background-color: tomato;
+}
+
+body {
+    margin: 0%;
+    background: hsl(0, 0%, 0%);
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    padding: 0px;
+  }
