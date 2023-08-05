@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://img.onl/9sKpzN" alt="Project logo"></a>
 </p>
-<h2 align="center"><img src="https://img.onl/aZKnhe" height="120px" ></h2>
+<h2 align="center">RAPIDCUTS</h2>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ## 📝 Table of Contents
 
-- [Problem Statement](#problem_statement)
+- [Ho](#main)
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
@@ -33,27 +33,22 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
+## 🧐 Problem Statement <a name = "main"></a>
 
 It is useful to design and follow a specific format when writing a problem statement. While there are several options
 for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
 focus on defining the problem.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
+- To provide students with a variety of resources to help them explore their interests and potential careers.
+- To help students develop the skills and knowledge they need to succeed in their chosen careers.
+- To connect students with employers and find job placement opportunities.
 
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
-
-## 💡 Idea / Solution <a name = "idea"></a>
-
-This section is used to describe potential solutions.
-
-Once the ideal, reality, and consequences sections have been
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+## 💡 Project Activities: / Solution <a name = "idea"></a>
+- Career assessments to help students identify their interests and strengths.
+- Job shadowing opportunities to give students the opportunity to see a career in action.
+- Mentorship programs to provide students with guidance and support from experienced professionals.
+- Workshops on resume writing, interview skills, and professional development.
+- Job fairs, networking events, and online job boards to help students connect with employers and find job placement opportunities.
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
