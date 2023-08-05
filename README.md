@@ -25,10 +25,7 @@
 - [Choosing a Programming Language](#main)
 - [Roadmaps Placement](#idea)
 - [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
 - [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -83,62 +80,27 @@ When embarking on a programming career, selecting the right programming language
 - Get hands-on experience to assess strengths and weaknesses.
 
 ## 💡Roadmaps Placement <a name = "idea"></a>
-- <b>C++</b>
-- <b>Java</b>
-- <b>Python</b>
+- [<b>C++</b>](#acknowledgments)
+- [<b>Java</b>](#acknowledgments)
+- [<b>Python</b>](#acknowledgments)
+- [<b>JavaScripts</b>](#acknowledgments)
+
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
 Write about what you could not develop during the course of the Hackathon; and about what your project can achieve
 in the future.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Narendra](https://github.com/nkrider7) -
+- [@Narendra](https://github.com/nkrider7)
 
 
-## 🎉 Acknowledgments <a name = "acknowledgments"></a>
+## 🎉 ADD+ ON <a name = "acknowledgments"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [<b>CyberSecurity</b>](#acknowledgments)
+
