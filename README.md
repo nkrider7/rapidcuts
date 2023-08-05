@@ -1,12 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://img.onl/9sKpzN" alt="Project logo"></a>
 </p>
-<h2 align="center">RapidCuts</h2>
+<h2 align="center"><img src="https://img.onl/aZKnhe" height="120px" ></h2>
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com)
+
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> To help students find a career that they are passionate about and that will allow them to make a difference in the world.
     <br> 
 </p>
 
